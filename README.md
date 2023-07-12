@@ -28,7 +28,7 @@
 > In this project, building an appliction with Rails and React in two app to for the messages greetings.🪄🎈
 
 ## 🎨 Frontend Repo
-- [x] [Clich here 😊⤵️ to navigate to the Frontend Repo]()
+- [x] [Clich here 😊⤵️ to navigate to the Frontend Repo](https://github.com/MICHAELKITH/hello_world_react_front-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
