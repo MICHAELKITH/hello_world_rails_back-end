@@ -104,8 +104,8 @@ Example commands:
 
 ```sh
 
-  git clone  https://github.com/osamaashraf6/One-App-With-Ruby-React
-  cd One-App-With-Ruby-React
+  git clone  
+  cd 
 ```
 ### Install
 
